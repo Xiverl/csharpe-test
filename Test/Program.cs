@@ -3,4 +3,3 @@ Console.WriteLine("Введите слово: ");
 string word = Console.ReadLine().ToString();
 Console.WriteLine("Вот твое слово: " + word);
 Console.ReadKey();
-Console.WriteLine();
